@@ -5,3 +5,4 @@
 + matrix.py，游戏矩阵状态
 + action.py，处理交互
 + render.py，显示相关
++ 。。。
