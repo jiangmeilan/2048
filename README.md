@@ -6,5 +6,3 @@
 + action.py，处理交互
 + render.py，显示相关
 + 。
-+--
-+--
